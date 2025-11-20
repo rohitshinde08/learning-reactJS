@@ -1,0 +1,18 @@
+button{
+  padding: 10px 20px;
+  background-color: #222;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  margin: 10px;
+}
+
+h1 {
+  color: white;
+  background-color: #222;
+  padding: 20px 60px;
+  width: fit-content;
+  margin: 20px;
+  font-size: 100px;
+}
